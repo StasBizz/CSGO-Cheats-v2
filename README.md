@@ -2,7 +2,6 @@
 
 Introduction
 This is a collection of cheats for the video-game Counter-Strike: Global Offensive.
-These cheats were coded as part of a YouTube series.
 
 Code Samples
 Gaining access to the CSGO application
